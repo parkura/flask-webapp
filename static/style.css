@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.forma{
+    margin-top: 300px;
+    text-align: center;
+
+}
+
+form{
+    color: red;
+    font-size: 2rem;
+}
+
+input{
+    padding:10px;
+    border-width: 2px;
+}
+
+.bmi{
+    margin-bottom: 70px ;
+}
+
